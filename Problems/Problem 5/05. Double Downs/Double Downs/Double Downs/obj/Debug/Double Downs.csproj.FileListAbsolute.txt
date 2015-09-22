@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\bin\Debug\Double Downs.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\bin\Debug\Double Downs.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\bin\Debug\Double Downs.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\obj\Debug\Double Downs.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\obj\Debug\Double Downs.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Double Downs\Double Downs\Double Downs\obj\Debug\Double Downs.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\bin\Debug\Biggest Triple.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\obj\Debug\Biggest Triple.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\bin\Debug\Biggest Triple.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\bin\Debug\Biggest Triple.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\obj\Debug\Biggest Triple.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Biggest Triple\Biggest Triple\Biggest Triple\obj\Debug\Biggest Triple.pdb

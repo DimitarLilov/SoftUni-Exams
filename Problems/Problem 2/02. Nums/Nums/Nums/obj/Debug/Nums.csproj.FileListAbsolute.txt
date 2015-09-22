@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\bin\Debug\Nums.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\obj\Debug\Nums.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\bin\Debug\Nums.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\bin\Debug\Nums.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\obj\Debug\Nums.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Nums\Nums\Nums\obj\Debug\Nums.pdb

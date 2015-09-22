@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\bin\Debug\Baba Tinche Airlines.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\bin\Debug\Baba Tinche Airlines.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\bin\Debug\Baba Tinche Airlines.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\obj\Debug\Baba Tinche Airlines.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\obj\Debug\Baba Tinche Airlines.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Baba Tinche Airlines\Baba Tinche Airlines\Baba Tinche Airlines\obj\Debug\Baba Tinche Airlines.pdb

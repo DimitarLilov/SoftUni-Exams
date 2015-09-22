@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Piggy Bank\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Piggy Bank\PiggyBank\PiggyBank\bin\Debug\PiggyBank.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Piggy Bank\PiggyBank\PiggyBank\bin\Debug\PiggyBank.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Piggy Bank\PiggyBank\PiggyBank\obj\Debug\PiggyBank.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Piggy Bank\PiggyBank\PiggyBank\obj\Debug\PiggyBank.pdb

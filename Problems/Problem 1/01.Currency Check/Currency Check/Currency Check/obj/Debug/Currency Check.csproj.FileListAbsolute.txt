@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\bin\Debug\Currency Check.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\bin\Debug\Currency Check.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\bin\Debug\Currency Check.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\obj\Debug\Currency Check.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\obj\Debug\Currency Check.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Currency Check\Currency Check\Currency Check\obj\Debug\Currency Check.pdb

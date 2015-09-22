@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\bin\Debug\Arrow.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\obj\Debug\Arrow.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\bin\Debug\Arrow.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\bin\Debug\Arrow.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\obj\Debug\Arrow.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Arrow\Arrow\Arrow\obj\Debug\Arrow.pdb

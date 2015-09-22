@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Winning Numbers\Winning Numbers\Winning Numbers\bin\Debug\Winning Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Winning Numbers\Winning Numbers\Winning Numbers\bin\Debug\Winning Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Winning Numbers\Winning Numbers\Winning Numbers\bin\Debug\Winning Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Winning Numbers\Winning Numbers\Winning Numbers\obj\Debug\Winning Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Winning Numbers\Winning Numbers\Winning Numbers\obj\Debug\Winning Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\bin\Debug\Sum of Elements.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\bin\Debug\Sum of Elements.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\bin\Debug\Sum of Elements.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\obj\Debug\Sum of Elements.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\obj\Debug\Sum of Elements.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sum Of Elements\Sum of Elements\Sum of Elements\obj\Debug\Sum of Elements.pdb

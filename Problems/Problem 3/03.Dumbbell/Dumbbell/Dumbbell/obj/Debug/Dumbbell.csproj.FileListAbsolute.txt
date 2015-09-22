@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\bin\Debug\Dumbbell.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\bin\Debug\Dumbbell.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\bin\Debug\Dumbbell.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\obj\Debug\Dumbbell.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\obj\Debug\Dumbbell.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Dumbbell\Dumbbell\Dumbbell\obj\Debug\Dumbbell.pdb

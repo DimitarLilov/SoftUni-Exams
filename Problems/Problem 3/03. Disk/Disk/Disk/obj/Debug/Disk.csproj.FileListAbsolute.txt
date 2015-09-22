@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\bin\Debug\Disk.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\bin\Debug\Disk.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\bin\Debug\Disk.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\obj\Debug\Disk.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\obj\Debug\Disk.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Disk\Disk\Disk\obj\Debug\Disk.pdb

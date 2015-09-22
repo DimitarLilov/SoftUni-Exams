@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\bin\Debug\Morse Code Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\bin\Debug\Morse Code Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\bin\Debug\Morse Code Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\obj\Debug\Morse Code Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\obj\Debug\Morse Code Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Morse Code Numbers\Morse Code Numbers\Morse Code Numbers\obj\Debug\Morse Code Numbers.pdb

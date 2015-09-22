@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\bin\Debug\Electricity.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\bin\Debug\Electricity.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\bin\Debug\Electricity.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\obj\Debug\Electricity.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\obj\Debug\Electricity.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Electricity\Electricity\Electricity\obj\Debug\Electricity.pdb

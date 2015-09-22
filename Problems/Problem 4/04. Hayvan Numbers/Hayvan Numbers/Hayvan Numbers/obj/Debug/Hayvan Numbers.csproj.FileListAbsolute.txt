@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\bin\Debug\Hayvan Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\obj\Debug\Hayvan Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\bin\Debug\Hayvan Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\bin\Debug\Hayvan Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\obj\Debug\Hayvan Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Hayvan Numbers\Hayvan Numbers\Hayvan Numbers\obj\Debug\Hayvan Numbers.pdb

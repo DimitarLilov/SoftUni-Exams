@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\bin\Debug\Budget.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\bin\Debug\Budget.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\bin\Debug\Budget.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\obj\Debug\Budget.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\obj\Debug\Budget.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Budget\Budget\Budget\obj\Debug\Budget.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Joro The Football Player\JoroFootballPlayer\JoroFootballPlayer\bin\Debug\JoroFootballPlayer.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Joro The Football Player\JoroFootballPlayer\JoroFootballPlayer\bin\Debug\JoroFootballPlayer.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Joro The Football Player\JoroFootballPlayer\JoroFootballPlayer\bin\Debug\JoroFootballPlayer.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Joro The Football Player\JoroFootballPlayer\JoroFootballPlayer\obj\Debug\JoroFootballPlayer.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Joro The Football Player\JoroFootballPlayer\JoroFootballPlayer\obj\Debug\JoroFootballPlayer.pdb

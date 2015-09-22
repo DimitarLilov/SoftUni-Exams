@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\bin\Debug\House with a Window.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\bin\Debug\House with a Window.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\bin\Debug\House with a Window.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\obj\Debug\House with a Window.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\obj\Debug\House with a Window.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House with a Window\House with a Window\House with a Window\obj\Debug\House with a Window.pdb

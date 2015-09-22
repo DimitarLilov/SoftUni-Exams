@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sequence Exchange\Bit Sequence Exchange\Bit Sequence Exchange\bin\Debug\Bit Sequence Exchange.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\bin\Debug\Sunlight.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\bin\Debug\Sunlight.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\bin\Debug\Sunlight.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\obj\Debug\Sunlight.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\obj\Debug\Sunlight.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunlight\Sunlight\Sunlight\obj\Debug\Sunlight.pdb

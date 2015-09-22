@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\bin\Debug\X-Bits.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\bin\Debug\X-Bits.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\bin\Debug\X-Bits.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\obj\Debug\X-Bits.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\obj\Debug\X-Bits.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. X-Bits\X-Bits\X-Bits\obj\Debug\X-Bits.pdb

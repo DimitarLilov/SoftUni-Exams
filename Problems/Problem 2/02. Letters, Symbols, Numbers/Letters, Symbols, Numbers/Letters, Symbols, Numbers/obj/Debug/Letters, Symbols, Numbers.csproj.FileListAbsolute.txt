@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\bin\Debug\Letters, Symbols, Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\bin\Debug\Letters, Symbols, Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\bin\Debug\Letters, Symbols, Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\obj\Debug\Letters, Symbols, Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\obj\Debug\Letters, Symbols, Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Letters, Symbols, Numbers\Letters, Symbols, Numbers\Letters, Symbols, Numbers\obj\Debug\Letters, Symbols, Numbers.pdb

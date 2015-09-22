@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\bin\Debug\Poker Straight.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\bin\Debug\Poker Straight.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\bin\Debug\Poker Straight.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\obj\Debug\Poker Straight.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\obj\Debug\Poker Straight.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Poker Straight\Poker Straight\Poker Straight\obj\Debug\Poker Straight.pdb

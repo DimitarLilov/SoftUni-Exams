@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\bin\Debug\LightTheTorches.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\bin\Debug\LightTheTorches.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\bin\Debug\LightTheTorches.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\obj\Debug\LightTheTorches.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\obj\Debug\LightTheTorches.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. LightTheTorches\LightTheTorches\LightTheTorches\obj\Debug\LightTheTorches.pdb

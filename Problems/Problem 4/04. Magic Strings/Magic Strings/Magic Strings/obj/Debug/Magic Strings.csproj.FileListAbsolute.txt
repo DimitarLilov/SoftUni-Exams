@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\bin\Debug\Magic Strings.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\bin\Debug\Magic Strings.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\bin\Debug\Magic Strings.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\obj\Debug\Magic Strings.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\obj\Debug\Magic Strings.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Strings\Magic Strings\Magic Strings\obj\Debug\Magic Strings.pdb

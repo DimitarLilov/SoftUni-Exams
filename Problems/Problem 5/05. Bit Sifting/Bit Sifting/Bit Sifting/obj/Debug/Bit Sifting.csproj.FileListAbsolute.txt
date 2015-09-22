@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\bin\Debug\Bit Sifting.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\bin\Debug\Bit Sifting.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\bin\Debug\Bit Sifting.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\obj\Debug\Bit Sifting.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\obj\Debug\Bit Sifting.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Sifting\Bit Sifting\Bit Sifting\obj\Debug\Bit Sifting.pdb

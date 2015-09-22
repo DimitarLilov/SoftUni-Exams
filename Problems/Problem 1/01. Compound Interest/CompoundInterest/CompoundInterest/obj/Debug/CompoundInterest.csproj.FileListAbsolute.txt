@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Compound Interest\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Compound Interest\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Compound Interest\CompoundInterest\CompoundInterest\bin\Debug\CompoundInterest.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Compound Interest\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Compound Interest\CompoundInterest\CompoundInterest\obj\Debug\CompoundInterest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\bin\Debug\Crossing Sequences.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\bin\Debug\Crossing Sequences.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\bin\Debug\Crossing Sequences.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\obj\Debug\Crossing Sequences.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\obj\Debug\Crossing Sequences.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Crossing Sequences\Crossing Sequences\Crossing Sequences\obj\Debug\Crossing Sequences.pdb

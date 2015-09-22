@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\bin\Debug\Tables.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\bin\Debug\Tables.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\bin\Debug\Tables.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\obj\Debug\Tables.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\obj\Debug\Tables.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Tables\Tables\Tables\obj\Debug\Tables.csprojResolveAssemblyReference.cache

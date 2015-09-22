@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd or Even Counter\Odd or Even Counter\Odd or Even Counter\bin\Debug\Odd or Even Counter.exe.config

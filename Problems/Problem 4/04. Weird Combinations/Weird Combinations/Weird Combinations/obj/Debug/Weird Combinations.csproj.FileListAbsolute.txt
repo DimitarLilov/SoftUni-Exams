@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\bin\Debug\Weird Combinations.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\bin\Debug\Weird Combinations.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\bin\Debug\Weird Combinations.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\obj\Debug\Weird Combinations.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\obj\Debug\Weird Combinations.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Weird Combinations\Weird Combinations\Weird Combinations\obj\Debug\Weird Combinations.pdb

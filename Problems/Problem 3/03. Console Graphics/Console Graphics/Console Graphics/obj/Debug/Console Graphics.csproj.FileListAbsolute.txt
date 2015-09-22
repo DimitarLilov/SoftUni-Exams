@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\bin\Debug\Console Graphics.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\bin\Debug\Console Graphics.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\bin\Debug\Console Graphics.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\obj\Debug\Console Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\obj\Debug\Console Graphics.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Console Graphics\Console Graphics\Console Graphics\obj\Debug\Console Graphics.pdb

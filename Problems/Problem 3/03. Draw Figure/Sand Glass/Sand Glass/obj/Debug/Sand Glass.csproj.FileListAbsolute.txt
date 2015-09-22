@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Draw Figure\Sand Glass\Sand Glass\bin\Debug\Sand Glass.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Draw Figure\Sand Glass\Sand Glass\bin\Debug\Sand Glass.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Draw Figure\Sand Glass\Sand Glass\bin\Debug\Sand Glass.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Draw Figure\Sand Glass\Sand Glass\obj\Debug\Sand Glass.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Draw Figure\Sand Glass\Sand Glass\obj\Debug\Sand Glass.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\bin\Debug\Odd and Even Jumps.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\bin\Debug\Odd and Even Jumps.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\bin\Debug\Odd and Even Jumps.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\obj\Debug\Odd and Even Jumps.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\obj\Debug\Odd and Even Jumps.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd and Even Jumps\Odd and Even Jumps\Odd and Even Jumps\obj\Debug\Odd and Even Jumps.pdb

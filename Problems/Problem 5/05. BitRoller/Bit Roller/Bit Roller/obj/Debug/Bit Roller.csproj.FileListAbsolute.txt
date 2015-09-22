@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\bin\Debug\Bit Roller.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\bin\Debug\Bit Roller.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\bin\Debug\Bit Roller.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\obj\Debug\Bit Roller.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\obj\Debug\Bit Roller.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. BitRoller\Bit Roller\Bit Roller\obj\Debug\Bit Roller.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\bin\Debug\Sequence of K Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\bin\Debug\Sequence of K Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\bin\Debug\Sequence of K Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\obj\Debug\Sequence of K Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\obj\Debug\Sequence of K Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Sequence of K Numbers\Sequence of K Numbers\Sequence of K Numbers\obj\Debug\Sequence of K Numbers.pdb

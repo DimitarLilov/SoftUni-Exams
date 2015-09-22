@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\bin\Debug\Detective Boev.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\bin\Debug\Detective Boev.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\bin\Debug\Detective Boev.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\obj\Debug\Detective Boev.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\obj\Debug\Detective Boev.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Detective Boev\Detective Boev\Detective Boev\obj\Debug\Detective Boev.pdb

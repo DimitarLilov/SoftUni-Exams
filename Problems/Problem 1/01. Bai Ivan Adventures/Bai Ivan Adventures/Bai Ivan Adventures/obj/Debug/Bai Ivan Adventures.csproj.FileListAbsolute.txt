@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\bin\Debug\Bai Ivan Adventures.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\bin\Debug\Bai Ivan Adventures.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\bin\Debug\Bai Ivan Adventures.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\obj\Debug\Bai Ivan Adventures.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\obj\Debug\Bai Ivan Adventures.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Bai Ivan Adventures\Bai Ivan Adventures\Bai Ivan Adventures\obj\Debug\Bai Ivan Adventures.pdb

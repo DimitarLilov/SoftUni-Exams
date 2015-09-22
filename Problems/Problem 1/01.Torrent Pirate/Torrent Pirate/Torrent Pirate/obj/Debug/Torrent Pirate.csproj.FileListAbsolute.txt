@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\bin\Debug\Torrent Pirate.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\bin\Debug\Torrent Pirate.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\bin\Debug\Torrent Pirate.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\obj\Debug\Torrent Pirate.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\obj\Debug\Torrent Pirate.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Torrent Pirate\Torrent Pirate\Torrent Pirate\obj\Debug\Torrent Pirate.csprojResolveAssemblyReference.cache

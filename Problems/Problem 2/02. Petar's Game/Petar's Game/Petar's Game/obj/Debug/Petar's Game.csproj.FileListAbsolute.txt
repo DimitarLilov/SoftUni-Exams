@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\bin\Debug\Petar's Game.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\bin\Debug\Petar's Game.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\bin\Debug\Petar's Game.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\obj\Debug\Petar's Game.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\obj\Debug\Petar's Game.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Petar's Game\Petar's Game\Petar's Game\obj\Debug\Petar's Game.pdb

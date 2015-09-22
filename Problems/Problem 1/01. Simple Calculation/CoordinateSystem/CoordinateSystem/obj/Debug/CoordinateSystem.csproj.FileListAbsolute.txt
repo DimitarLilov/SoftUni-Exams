@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\bin\Debug\CoordinateSystem.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Simple Calculation\CoordinateSystem\CoordinateSystem\obj\Debug\CoordinateSystem.pdb

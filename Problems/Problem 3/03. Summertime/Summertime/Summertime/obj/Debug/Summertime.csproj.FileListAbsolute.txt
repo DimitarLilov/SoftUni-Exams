@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\bin\Debug\Summertime.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\bin\Debug\Summertime.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\bin\Debug\Summertime.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\obj\Debug\Summertime.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\obj\Debug\Summertime.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Summertime\Summertime\Summertime\obj\Debug\Summertime.pdb

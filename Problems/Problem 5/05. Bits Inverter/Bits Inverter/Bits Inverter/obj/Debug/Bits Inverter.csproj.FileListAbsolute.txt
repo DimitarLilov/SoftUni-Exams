@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\bin\Debug\Bits Inverter.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\bin\Debug\Bits Inverter.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\bin\Debug\Bits Inverter.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\obj\Debug\Bits Inverter.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\obj\Debug\Bits Inverter.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Inverter\Bits Inverter\Bits Inverter\obj\Debug\Bits Inverter.pdb

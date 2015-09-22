@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\bin\Debug\Bit Builder.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\bin\Debug\Bit Builder.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\bin\Debug\Bit Builder.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\obj\Debug\Bit Builder.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\obj\Debug\Bit Builder.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Builder\Bit Builder\Bit Builder\obj\Debug\Bit Builder.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\bin\Debug\Bit Flipper.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\bin\Debug\Bit Flipper.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\bin\Debug\Bit Flipper.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\obj\Debug\Bit Flipper.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\obj\Debug\Bit Flipper.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Flipper\Bit Flipper\Bit Flipper\obj\Debug\Bit Flipper.pdb

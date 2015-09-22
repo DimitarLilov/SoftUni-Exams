@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\bin\Debug\Encrypted matrix.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\bin\Debug\Encrypted matrix.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\bin\Debug\Encrypted matrix.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\obj\Debug\Encrypted matrix.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\obj\Debug\Encrypted matrix.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Encrypted matrix\Encrypted matrix\Encrypted matrix\obj\Debug\Encrypted matrix.pdb

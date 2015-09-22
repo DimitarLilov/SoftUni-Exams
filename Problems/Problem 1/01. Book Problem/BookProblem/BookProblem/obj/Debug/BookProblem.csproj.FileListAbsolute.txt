@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Book Problem\BookProblem\BookProblem\bin\Debug\BookProblem.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Book Problem\BookProblem\BookProblem\bin\Debug\BookProblem.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Book Problem\BookProblem\BookProblem\bin\Debug\BookProblem.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Book Problem\BookProblem\BookProblem\obj\Debug\BookProblem.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Book Problem\BookProblem\BookProblem\obj\Debug\BookProblem.pdb

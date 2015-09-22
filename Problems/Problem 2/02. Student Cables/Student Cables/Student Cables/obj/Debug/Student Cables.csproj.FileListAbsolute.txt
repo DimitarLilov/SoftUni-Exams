@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\bin\Debug\Student Cables.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\bin\Debug\Student Cables.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\bin\Debug\Student Cables.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\obj\Debug\Student Cables.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\obj\Debug\Student Cables.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Student Cables\Student Cables\Student Cables\obj\Debug\Student Cables.pdb

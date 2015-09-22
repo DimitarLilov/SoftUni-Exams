@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Headphones\Headphones\Headphones\bin\Debug\Headphones.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Headphones\Headphones\Headphones\bin\Debug\Headphones.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Headphones\Headphones\Headphones\bin\Debug\Headphones.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Headphones\Headphones\Headphones\obj\Debug\Headphones.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Headphones\Headphones\Headphones\obj\Debug\Headphones.pdb

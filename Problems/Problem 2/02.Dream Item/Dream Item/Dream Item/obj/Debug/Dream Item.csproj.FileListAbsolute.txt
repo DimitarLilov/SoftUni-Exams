@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\bin\Debug\Dream Item.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\bin\Debug\Dream Item.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\bin\Debug\Dream Item.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\obj\Debug\Dream Item.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\obj\Debug\Dream Item.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02.Dream Item\Dream Item\Dream Item\obj\Debug\Dream Item.pdb

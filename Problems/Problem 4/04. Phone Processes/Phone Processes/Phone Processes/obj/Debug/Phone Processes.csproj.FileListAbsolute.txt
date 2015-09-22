@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\bin\Debug\Phone Processes.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\bin\Debug\Phone Processes.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\bin\Debug\Phone Processes.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\obj\Debug\Phone Processes.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\obj\Debug\Phone Processes.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Phone Processes\Phone Processes\Phone Processes\obj\Debug\Phone Processes.pdb

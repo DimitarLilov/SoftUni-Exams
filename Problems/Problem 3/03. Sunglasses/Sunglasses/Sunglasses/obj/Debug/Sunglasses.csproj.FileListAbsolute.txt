@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunglasses\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunglasses\Sunglasses\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunglasses\Sunglasses\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunglasses\Sunglasses\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Sunglasses\Sunglasses\Sunglasses\obj\Debug\Sunglasses.pdb

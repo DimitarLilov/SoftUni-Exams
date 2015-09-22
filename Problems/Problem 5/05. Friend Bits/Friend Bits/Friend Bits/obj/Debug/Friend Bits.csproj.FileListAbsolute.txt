@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\bin\Debug\Friend Bits.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\bin\Debug\Friend Bits.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\bin\Debug\Friend Bits.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\obj\Debug\Friend Bits.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\obj\Debug\Friend Bits.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Friend Bits\Friend Bits\Friend Bits\obj\Debug\Friend Bits.pdb

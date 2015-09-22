@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Change Even Bits\Change Even Bits\Change Even Bits\bin\Debug\Change Even Bits.exe.config

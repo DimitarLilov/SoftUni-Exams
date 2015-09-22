@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\bin\Debug\Game of Life.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\bin\Debug\Game of Life.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\bin\Debug\Game of Life.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\obj\Debug\Game of Life.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\obj\Debug\Game of Life.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Game of Life\Game of Life\Game of Life\obj\Debug\Game of Life.pdb

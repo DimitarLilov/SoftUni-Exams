@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\bin\Debug\Programmer DNA.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\bin\Debug\Programmer DNA.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\bin\Debug\Programmer DNA.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\obj\Debug\Programmer DNA.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\obj\Debug\Programmer DNA.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Programmer DNA\Programmer DNA\Programmer DNA\obj\Debug\Programmer DNA.pdb

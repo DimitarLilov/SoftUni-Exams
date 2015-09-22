@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\bin\Debug\Spiral Matrix.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Spiral Matrix\Spiral Matrix\Spiral Matrix\obj\Debug\Spiral Matrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Diamonds\Diamonds\Diamonds\bin\Debug\Diamonds.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Diamonds\Diamonds\Diamonds\bin\Debug\Diamonds.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Diamonds\Diamonds\Diamonds\bin\Debug\Diamonds.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Diamonds\Diamonds\Diamonds\obj\Debug\Diamonds.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Diamonds\Diamonds\Diamonds\obj\Debug\Diamonds.pdb

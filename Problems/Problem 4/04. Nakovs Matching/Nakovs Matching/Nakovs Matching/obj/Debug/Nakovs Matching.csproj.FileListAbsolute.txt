@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\bin\Debug\Nakovs Matching.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\bin\Debug\Nakovs Matching.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\bin\Debug\Nakovs Matching.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\obj\Debug\Nakovs Matching.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\obj\Debug\Nakovs Matching.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nakovs Matching\Nakovs Matching\Nakovs Matching\obj\Debug\Nakovs Matching.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\bin\Debug\WiggleWiggle.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\bin\Debug\WiggleWiggle.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\bin\Debug\WiggleWiggle.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\obj\Debug\WiggleWiggle.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\obj\Debug\WiggleWiggle.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. WiggleWiggle\WiggleWiggle\WiggleWiggle\obj\Debug\WiggleWiggle.pdb

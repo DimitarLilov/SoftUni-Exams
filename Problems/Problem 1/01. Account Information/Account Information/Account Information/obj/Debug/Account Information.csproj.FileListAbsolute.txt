@@ -1,0 +1,2 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Account Information\Account Information\Account Information\bin\Debug\Account Information.exe.config
+C:\Users\Dimitar\Documents\SoftUni\CSharp\Exercises\Problems\Problem 1\01. Account Information\Account Information\Account Information\bin\Debug\Account Information.exe.config

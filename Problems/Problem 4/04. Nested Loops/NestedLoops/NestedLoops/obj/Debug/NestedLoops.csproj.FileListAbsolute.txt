@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\bin\Debug\NestedLoops.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\bin\Debug\NestedLoops.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\obj\Debug\NestedLoops.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\obj\Debug\NestedLoops.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nested Loops\NestedLoops\NestedLoops\obj\Debug\NestedLoops.pdb

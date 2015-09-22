@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\bin\Debug\Chess Queens.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\bin\Debug\Chess Queens.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\bin\Debug\Chess Queens.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\obj\Debug\Chess Queens.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\obj\Debug\Chess Queens.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Chess Queens\Chess Queens\Chess Queens\obj\Debug\Chess Queens.pdb

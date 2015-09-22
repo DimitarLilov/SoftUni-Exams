@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\bin\Debug\Cheat Sheet.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\bin\Debug\Cheat Sheet.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\bin\Debug\Cheat Sheet.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\obj\Debug\Cheat Sheet.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\obj\Debug\Cheat Sheet.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Cheat Sheet\Cheat Sheet\Cheat Sheet\obj\Debug\Cheat Sheet.pdb

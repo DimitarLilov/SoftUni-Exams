@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Cinema\Cinema\Cinema\obj\Debug\Cinema.pdb

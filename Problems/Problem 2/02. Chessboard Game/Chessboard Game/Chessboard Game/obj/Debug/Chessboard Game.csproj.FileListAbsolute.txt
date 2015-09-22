@@ -1,0 +1,1 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Chessboard Game\Chessboard Game\Chessboard Game\bin\Debug\Chessboard Game.exe.config

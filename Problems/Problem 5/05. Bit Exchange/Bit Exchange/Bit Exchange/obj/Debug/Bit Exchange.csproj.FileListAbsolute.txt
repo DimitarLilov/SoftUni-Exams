@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\bin\Debug\Bit Exchange.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\bin\Debug\Bit Exchange.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\bin\Debug\Bit Exchange.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\obj\Debug\Bit Exchange.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\obj\Debug\Bit Exchange.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Exchange\Bit Exchange\Bit Exchange\obj\Debug\Bit Exchange.pdb

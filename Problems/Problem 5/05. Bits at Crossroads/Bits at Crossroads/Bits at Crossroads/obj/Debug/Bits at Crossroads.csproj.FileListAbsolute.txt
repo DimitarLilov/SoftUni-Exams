@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\bin\Debug\Bits at Crossroads.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\bin\Debug\Bits at Crossroads.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\bin\Debug\Bits at Crossroads.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\obj\Debug\Bits at Crossroads.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\obj\Debug\Bits at Crossroads.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits at Crossroads\Bits at Crossroads\Bits at Crossroads\obj\Debug\Bits at Crossroads.pdb

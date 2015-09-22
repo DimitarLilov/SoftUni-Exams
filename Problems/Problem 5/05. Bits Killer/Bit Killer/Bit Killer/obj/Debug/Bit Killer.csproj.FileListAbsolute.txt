@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\bin\Debug\Bit Killer.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\bin\Debug\Bit Killer.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\bin\Debug\Bit Killer.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\obj\Debug\Bit Killer.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\obj\Debug\Bit Killer.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bits Killer\Bit Killer\Bit Killer\obj\Debug\Bit Killer.pdb

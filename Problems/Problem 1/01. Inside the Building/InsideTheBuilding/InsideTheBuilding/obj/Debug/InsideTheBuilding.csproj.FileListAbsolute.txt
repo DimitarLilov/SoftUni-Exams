@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\obj\Debug\InsideTheBuilding.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\bin\Debug\InsideTheBuilding.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\bin\Debug\InsideTheBuilding.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\obj\Debug\InsideTheBuilding.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Inside the Building\InsideTheBuilding\InsideTheBuilding\obj\Debug\InsideTheBuilding.pdb

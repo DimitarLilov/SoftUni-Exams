@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\bin\Debug\Gambling.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\bin\Debug\Gambling.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\bin\Debug\Gambling.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\obj\Debug\Gambling.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\obj\Debug\Gambling.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Gambling\Gambling\Gambling\obj\Debug\Gambling.pdb

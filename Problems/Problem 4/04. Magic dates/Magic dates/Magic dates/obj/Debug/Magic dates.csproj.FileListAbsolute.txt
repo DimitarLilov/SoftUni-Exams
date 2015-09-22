@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\bin\Debug\Magic dates.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\bin\Debug\Magic dates.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\bin\Debug\Magic dates.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\obj\Debug\Magic dates.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\obj\Debug\Magic dates.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic dates\Magic dates\Magic dates\obj\Debug\Magic dates.pdb

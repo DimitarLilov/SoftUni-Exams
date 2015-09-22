@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\bin\Debug\Bit Lock.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\bin\Debug\Bit Lock.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\bin\Debug\Bit Lock.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\obj\Debug\Bit Lock.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\obj\Debug\Bit Lock.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Lock\Bit Lock\Bit Lock\obj\Debug\Bit Lock.pdb

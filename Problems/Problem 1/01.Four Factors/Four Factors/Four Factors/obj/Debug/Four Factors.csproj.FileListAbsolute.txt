@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\bin\Debug\Four Factors.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\obj\Debug\Four Factors.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\bin\Debug\Four Factors.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\bin\Debug\Four Factors.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\obj\Debug\Four Factors.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01.Four Factors\Four Factors\Four Factors\obj\Debug\Four Factors.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\bin\Debug\Boat.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\bin\Debug\Boat.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\bin\Debug\Boat.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\obj\Debug\Boat.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\obj\Debug\Boat.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Boat\Boat\Boat\obj\Debug\Boat.csprojResolveAssemblyReference.cache

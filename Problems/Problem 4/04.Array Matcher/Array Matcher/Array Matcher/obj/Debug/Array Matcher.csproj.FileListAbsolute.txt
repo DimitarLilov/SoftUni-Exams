@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\bin\Debug\Array Matcher.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\bin\Debug\Array Matcher.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\bin\Debug\Array Matcher.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\obj\Debug\Array Matcher.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\obj\Debug\Array Matcher.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04.Array Matcher\Array Matcher\Array Matcher\obj\Debug\Array Matcher.pdb

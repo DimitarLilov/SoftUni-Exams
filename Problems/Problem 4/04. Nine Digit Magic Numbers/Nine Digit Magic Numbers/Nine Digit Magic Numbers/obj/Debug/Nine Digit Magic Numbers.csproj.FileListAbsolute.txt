@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\bin\Debug\Nine Digit Magic Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\bin\Debug\Nine Digit Magic Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\bin\Debug\Nine Digit Magic Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\obj\Debug\Nine Digit Magic Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\obj\Debug\Nine Digit Magic Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Nine Digit Magic Numbers\Nine Digit Magic Numbers\Nine Digit Magic Numbers\obj\Debug\Nine Digit Magic Numbers.pdb

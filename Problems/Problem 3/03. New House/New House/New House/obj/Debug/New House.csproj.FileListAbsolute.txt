@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\bin\Debug\New House.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\bin\Debug\New House.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\bin\Debug\New House.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\obj\Debug\New House.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\obj\Debug\New House.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. New House\New House\New House\obj\Debug\New House.pdb

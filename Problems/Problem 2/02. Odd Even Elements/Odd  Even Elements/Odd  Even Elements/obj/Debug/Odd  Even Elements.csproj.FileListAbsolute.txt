@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\bin\Debug\Odd  Even Elements.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\bin\Debug\Odd  Even Elements.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\bin\Debug\Odd  Even Elements.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\obj\Debug\Odd  Even Elements.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\obj\Debug\Odd  Even Elements.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Elements\Odd  Even Elements\Odd  Even Elements\obj\Debug\Odd  Even Elements.pdb

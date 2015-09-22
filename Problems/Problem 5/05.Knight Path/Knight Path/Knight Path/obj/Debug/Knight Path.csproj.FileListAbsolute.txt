@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\bin\Debug\Knight Path.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\bin\Debug\Knight Path.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\bin\Debug\Knight Path.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\obj\Debug\Knight Path.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\obj\Debug\Knight Path.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05.Knight Path\Knight Path\Knight Path\obj\Debug\Knight Path.pdb

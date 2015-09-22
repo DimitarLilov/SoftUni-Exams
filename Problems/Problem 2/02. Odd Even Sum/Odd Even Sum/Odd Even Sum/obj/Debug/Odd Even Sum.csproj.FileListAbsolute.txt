@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Sum\Odd Even Sum\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Sum\Odd Even Sum\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Sum\Odd Even Sum\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Sum\Odd Even Sum\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Odd Even Sum\Odd Even Sum\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

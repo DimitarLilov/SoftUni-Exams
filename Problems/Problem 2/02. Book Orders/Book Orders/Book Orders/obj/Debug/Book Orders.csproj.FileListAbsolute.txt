@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Book Orders\Book Orders\Book Orders\bin\Debug\Book Orders.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Book Orders\Book Orders\Book Orders\bin\Debug\Book Orders.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Book Orders\Book Orders\Book Orders\bin\Debug\Book Orders.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Book Orders\Book Orders\Book Orders\obj\Debug\Book Orders.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Book Orders\Book Orders\Book Orders\obj\Debug\Book Orders.pdb

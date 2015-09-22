@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\bin\Debug\FruitMarket.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\obj\Debug\FruitMarket.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\bin\Debug\FruitMarket.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\bin\Debug\FruitMarket.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\obj\Debug\FruitMarket.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Fruit Market\FruitMarket\FruitMarket\obj\Debug\FruitMarket.pdb

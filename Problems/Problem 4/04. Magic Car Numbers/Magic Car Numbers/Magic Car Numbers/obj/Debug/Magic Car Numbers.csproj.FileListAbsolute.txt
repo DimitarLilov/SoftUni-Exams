@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\bin\Debug\Magic Car Numbers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\bin\Debug\Magic Car Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\bin\Debug\Magic Car Numbers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\obj\Debug\Magic Car Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\obj\Debug\Magic Car Numbers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Magic Car Numbers\Magic Car Numbers\Magic Car Numbers\obj\Debug\Magic Car Numbers.pdb

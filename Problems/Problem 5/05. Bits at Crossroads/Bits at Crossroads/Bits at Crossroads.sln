@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bits at Crossroads", "Bits at Crossroads\Bits at Crossroads.csproj", "{F754045C-31D4-42A1-8963-12C940DBC073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F754045C-31D4-42A1-8963-12C940DBC073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F754045C-31D4-42A1-8963-12C940DBC073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F754045C-31D4-42A1-8963-12C940DBC073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F754045C-31D4-42A1-8963-12C940DBC073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

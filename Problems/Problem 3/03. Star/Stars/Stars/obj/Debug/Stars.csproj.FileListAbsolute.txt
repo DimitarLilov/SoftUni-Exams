@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Star\Stars\Stars\bin\Debug\Stars.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Star\Stars\Stars\bin\Debug\Stars.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Star\Stars\Stars\bin\Debug\Stars.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Star\Stars\Stars\obj\Debug\Stars.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Star\Stars\Stars\obj\Debug\Stars.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\bin\Debug\HalfSum.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\bin\Debug\HalfSum.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\bin\Debug\HalfSum.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\obj\Debug\HalfSum.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\obj\Debug\HalfSum.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Half Sum\HalfSum\HalfSum\obj\Debug\HalfSum.pdb

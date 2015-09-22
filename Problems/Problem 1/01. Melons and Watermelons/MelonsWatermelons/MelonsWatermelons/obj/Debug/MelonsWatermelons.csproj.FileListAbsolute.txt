@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\bin\Debug\MelonsWatermelons.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\bin\Debug\MelonsWatermelons.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\bin\Debug\MelonsWatermelons.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\obj\Debug\MelonsWatermelons.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\obj\Debug\MelonsWatermelons.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Melons and Watermelons\MelonsWatermelons\MelonsWatermelons\obj\Debug\MelonsWatermelons.pdb

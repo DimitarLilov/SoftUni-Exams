@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\bin\Debug\Text Bombardment.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\bin\Debug\Text Bombardment.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\bin\Debug\Text Bombardment.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\obj\Debug\Text Bombardment.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\obj\Debug\Text Bombardment.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Text Bombardment\Text Bombardment\Text Bombardment\obj\Debug\Text Bombardment.pdb

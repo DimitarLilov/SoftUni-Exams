@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\bin\Debug\Wine Glass.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\obj\Debug\Wine Glass.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\bin\Debug\Wine Glass.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\bin\Debug\Wine Glass.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\obj\Debug\Wine Glass.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Wine Glass\Wine Glass\Wine Glass\obj\Debug\Wine Glass.pdb

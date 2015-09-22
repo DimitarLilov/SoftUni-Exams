@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nine Digit Magic Numbers", "Nine Digit Magic Numbers\Nine Digit Magic Numbers.csproj", "{61B21A11-7F2E-41D7-A733-29897720414E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61B21A11-7F2E-41D7-A733-29897720414E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B21A11-7F2E-41D7-A733-29897720414E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B21A11-7F2E-41D7-A733-29897720414E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B21A11-7F2E-41D7-A733-29897720414E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

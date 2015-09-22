@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\bin\Debug\Panda Scotland Flag.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\obj\Debug\Panda Scotland Flag.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\bin\Debug\Panda Scotland Flag.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\bin\Debug\Panda Scotland Flag.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\obj\Debug\Panda Scotland Flag.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Panda Scotland Flag\Panda Scotland Flag\Panda Scotland Flag\obj\Debug\Panda Scotland Flag.pdb

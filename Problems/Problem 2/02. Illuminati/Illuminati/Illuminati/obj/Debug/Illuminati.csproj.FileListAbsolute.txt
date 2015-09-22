@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\bin\Debug\Illuminati.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\bin\Debug\Illuminati.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\bin\Debug\Illuminati.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\obj\Debug\Illuminati.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\obj\Debug\Illuminati.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Illuminati\Illuminati\Illuminati\obj\Debug\Illuminati.pdb

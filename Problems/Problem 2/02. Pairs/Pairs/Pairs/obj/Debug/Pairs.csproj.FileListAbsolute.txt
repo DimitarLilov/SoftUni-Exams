@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\bin\Debug\Pairs.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\bin\Debug\Pairs.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\bin\Debug\Pairs.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\obj\Debug\Pairs.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\obj\Debug\Pairs.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Pairs\Pairs\Pairs\obj\Debug\Pairs.pdb

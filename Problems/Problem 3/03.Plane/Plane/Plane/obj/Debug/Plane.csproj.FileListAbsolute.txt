@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\bin\Debug\Plane.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\bin\Debug\Plane.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\bin\Debug\Plane.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\obj\Debug\Plane.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Plane\Plane\Plane\obj\Debug\Plane.pdb

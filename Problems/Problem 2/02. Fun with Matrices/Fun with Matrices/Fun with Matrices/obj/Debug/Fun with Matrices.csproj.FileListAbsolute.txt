@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\bin\Debug\Fun with Matrices.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\bin\Debug\Fun with Matrices.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\bin\Debug\Fun with Matrices.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\obj\Debug\Fun with Matrices.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\obj\Debug\Fun with Matrices.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 2\02. Fun with Matrices\Fun with Matrices\Fun with Matrices\obj\Debug\Fun with Matrices.pdb

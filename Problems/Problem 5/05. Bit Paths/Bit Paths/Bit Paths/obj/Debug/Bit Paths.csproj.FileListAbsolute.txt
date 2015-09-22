@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\bin\Debug\Bit Paths.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\bin\Debug\Bit Paths.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\bin\Debug\Bit Paths.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\obj\Debug\Bit Paths.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\obj\Debug\Bit Paths.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 5\05. Bit Paths\Bit Paths\Bit Paths\obj\Debug\Bit Paths.pdb

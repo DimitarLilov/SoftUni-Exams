@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\bin\Debug\Car.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\bin\Debug\Car.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\bin\Debug\Car.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\obj\Debug\Car.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\obj\Debug\Car.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Car\Car\Car\obj\Debug\Car.pdb

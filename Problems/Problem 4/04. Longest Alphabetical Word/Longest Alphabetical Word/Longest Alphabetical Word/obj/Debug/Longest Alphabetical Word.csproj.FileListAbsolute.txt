@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\bin\Debug\Longest Alphabetical Word.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\bin\Debug\Longest Alphabetical Word.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\bin\Debug\Longest Alphabetical Word.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\obj\Debug\Longest Alphabetical Word.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\obj\Debug\Longest Alphabetical Word.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 4\04. Longest Alphabetical Word\Longest Alphabetical Word\Longest Alphabetical Word\obj\Debug\Longest Alphabetical Word.pdb

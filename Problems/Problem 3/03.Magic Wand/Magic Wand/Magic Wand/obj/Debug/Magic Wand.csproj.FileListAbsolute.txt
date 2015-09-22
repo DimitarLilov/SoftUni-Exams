@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Magic Wand\Magic Wand\Magic Wand\bin\Debug\Magic Wand.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Magic Wand\Magic Wand\Magic Wand\bin\Debug\Magic Wand.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Magic Wand\Magic Wand\Magic Wand\bin\Debug\Magic Wand.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Magic Wand\Magic Wand\Magic Wand\obj\Debug\Magic Wand.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03.Magic Wand\Magic Wand\Magic Wand\obj\Debug\Magic Wand.pdb

@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\bin\Debug\TravellerBob.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\bin\Debug\TravellerBob.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\bin\Debug\TravellerBob.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\obj\Debug\TravellerBob.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\obj\Debug\TravellerBob.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Traveller Bob\TravellerBob\TravellerBob\obj\Debug\TravellerBob.pdb

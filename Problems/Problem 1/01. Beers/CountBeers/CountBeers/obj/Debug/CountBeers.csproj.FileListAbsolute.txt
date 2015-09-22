@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\bin\Debug\CountBeers.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\bin\Debug\CountBeers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\bin\Debug\CountBeers.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\obj\Debug\CountBeers.csprojResolveAssemblyReference.cache
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\obj\Debug\CountBeers.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 1\01. Beers\CountBeers\CountBeers\obj\Debug\CountBeers.pdb

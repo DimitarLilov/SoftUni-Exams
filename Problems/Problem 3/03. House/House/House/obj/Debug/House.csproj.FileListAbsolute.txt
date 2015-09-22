@@ -1,0 +1,6 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\bin\Debug\House.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\bin\Debug\House.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\bin\Debug\House.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\obj\Debug\House.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\obj\Debug\House.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. House\House\House\obj\Debug\House.csprojResolveAssemblyReference.cache

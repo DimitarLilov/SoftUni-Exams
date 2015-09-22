@@ -1,0 +1,5 @@
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Christmas Tree\Christmas Tree\Christmas Tree\bin\Debug\Christmas Tree.exe.config
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Christmas Tree\Christmas Tree\Christmas Tree\bin\Debug\Christmas Tree.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Christmas Tree\Christmas Tree\Christmas Tree\bin\Debug\Christmas Tree.pdb
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Christmas Tree\Christmas Tree\Christmas Tree\obj\Debug\Christmas Tree.exe
+C:\Users\Dimitar\Documents\CSharp\Exercises\Problems\Problem 3\03. Christmas Tree\Christmas Tree\Christmas Tree\obj\Debug\Christmas Tree.pdb
